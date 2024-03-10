@@ -7,13 +7,13 @@ while True:
         case 'add':
             todo = input("enter a todo") + "\n"
 
-            file = open("files/todo.txt", "r")
+            file = open("../app one/files/todo.txt", "r")
             todos = file.readlines()
             file.close()
 
             todos.append(todo)
 
-            file = open("files/todo.txt", "w")
+            file = open("../app one/files/todo.txt", "w")
             file.writelines(todos)
             file.close()
 
