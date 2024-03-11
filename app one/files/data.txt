@@ -1,0 +1,5 @@
+temperatures
+3
+5
+12
+34
