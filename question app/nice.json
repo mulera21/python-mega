@@ -1,0 +1,9 @@
+[{"question_Text": "which model of cars is common in kenya", "alternatives":
+    ["mazda", "toyota", "subaru"], "correct_answer":2},
+
+{"question_Text": "hich car is bought by toyota", "alternatives":
+    ["honda", "nissan", "subaru", "mercedes"], "correct_answer": 3},
+
+{"question_Text": "which car are mostly electric", "alternatives":
+    ["tesla", "toyota", "mazda", "subaru"], "correct_answer": 1}
+]
