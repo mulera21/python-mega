@@ -1,4 +1,8 @@
+life
+run
+fit
+run
+buy
 master python
 
-run
-wash
+house
